@@ -1,4 +1,4 @@
-# Star Citizen CryEngine-Converter Helper Script
+# Star Citizen Asset Conversion Helper Script
 
 > [!IMPORTANT]
 > This project is **not official**. It is **not affiliated with CIG, RSI, or MarkEmp**.  
